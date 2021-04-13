@@ -3,7 +3,7 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 08/06/2020 01:58:20 AM
+// Create Date: 
 // Design Name: 
 // Module Name: AOI22_WITH_FAULT_INJECTION
 // Project Name: 
