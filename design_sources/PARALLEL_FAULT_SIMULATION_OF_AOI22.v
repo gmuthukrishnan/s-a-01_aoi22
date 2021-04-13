@@ -1,22 +1,4 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 08/06/2020 03:24:27 AM
-// Design Name: 
-// Module Name: PARALLEL_FAULT_SIMULATION_OF_AOI22
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
+`timescale 1ns / 1ps 
 //////////////////////////////////////////////////////////////////////////////////
 module PARALLEL_SIMULATION_OF_AOI22
 (
