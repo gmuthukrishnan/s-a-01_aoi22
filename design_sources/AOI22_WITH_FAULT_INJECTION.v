@@ -1,24 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 
-// Design Name: 
-// Module Name: AOI22_WITH_FAULT_INJECTION
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
 //THIS MODULE IS TO DESCRIBE THE AOI22 FUNCTION WITH 2-TO-1 FAULT INDUCING MUX AT EVERY NETS TO
 //INJECT STUCK AT FAULTS
 module AOI22_with_fault_capability(Out,A,B,C,D);
